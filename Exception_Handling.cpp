@@ -1,12 +1,9 @@
 // Header Files
 #include <iostream>
 #include <string>
+#include <string>
+#include <cstring>
 using namespace std;
-
-//const int days_in_months[12] = { 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-//const char* months[12][12] = {"January", "Feb", "March", "April", "May", "June", "July", "August", 
-//"September", "October", "November", "December" };
-//const char* days[12][10] = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
 
 //-----------------------------------------------------------------------------------------------------------
 

@@ -1,7 +1,6 @@
 // Header Files
 #include <iostream>	// for basic input and output
 #include <string>
-#include <string>
 #include <cstring>
 #include <fstream>	// file handling
 using namespace std;
